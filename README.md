@@ -1,6 +1,7 @@
 # DiceRoller
 
 This Java application utilizes Java and JFrame to present a dice rolling game. Each time the blue die scores a higher value than the red die, a win is counted.
+<p>&nbsp;</p>
 
 <img width="202" alt="Screen Shot 2021-06-04 at 11 06 32 AM" src="https://user-images.githubusercontent.com/79879438/120823485-7ad25a80-c525-11eb-987c-5259e6fb51a3.png">
 
