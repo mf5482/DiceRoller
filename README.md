@@ -5,7 +5,7 @@ This Java application utilizes Java and JFrame to present a dice rolling game. E
 <img width="202" alt="Screen Shot 2021-06-04 at 11 06 32 AM" src="https://user-images.githubusercontent.com/79879438/120823485-7ad25a80-c525-11eb-987c-5259e6fb51a3.png">
 
 Click 'Roll' to start a turn. In this instance, blue wins, so a win is counted.
-<p></p>
+<p>&nbsp;</p>
 
 <img width="203" alt="Screen Shot 2021-06-04 at 11 06 48 AM" src="https://user-images.githubusercontent.com/79879438/120823636-9f2e3700-c525-11eb-850c-56aba30a75f3.png">
 
