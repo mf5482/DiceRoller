@@ -1,5 +1,4 @@
 //Michael Fishler
-//Comprehensive Exam 2
 
 //Import libraries
 import java.util.Random;
@@ -17,7 +16,7 @@ import java.awt.Graphics2D;
 import java.awt.Shape;
 
 //Main class for program
-public class MFishler_ComprehensiveExam2 extends JFrame{
+public class DiceRoller extends JFrame{
 	
 	private JPanel mainPanel; //Defines first panel
 	private JButton rollButton; //Button that enables roll feature
@@ -37,7 +36,7 @@ public class MFishler_ComprehensiveExam2 extends JFrame{
 	private GridLayout picLayout; //Custom layout for the die pictures
 	
 	//Program constructor - builds and returns jpanel object
-	public MFishler_ComprehensiveExam2() {
+	public DiceRoller() {
 		
 		setTitle("Dice Frame"); //Set title
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //What should the program do when closed
@@ -266,7 +265,7 @@ public class MFishler_ComprehensiveExam2 extends JFrame{
 	public static void main(String[] args) {
 		
 		//Creates new instance of object
-		MFishler_ComprehensiveExam2 cw = new MFishler_ComprehensiveExam2();
+		DiceRoller cw = new DiceRoller();
 		
 		
 		
